@@ -30,6 +30,24 @@
 	--popout-color-alt: var(--main-color)
 }
 
+.theme-light {
+	--app-bg: #221921
+	--main-color: #382d37
+	--main-alt: #221921
+	--status-picker-color: var(--main-color)
+	--sidebar-panel-color: var(--main-alt)
+		
+	--message-color: var(--main-color)
+	--message-color-hover: #665464
+	--message-color-alt: var(--main-color)
+	--main-textarea-color: var(--main-color)
+	--main-textarea-color-alt: var(--main-color)
+	--typing-color: var(--main-alt)
+
+	--popout-color: var(--main-color)
+	--popout-color-alt: var(--main-color)
+}
+
 :root {
 	--accent-hue: 309;
 	--accent-saturation: 71%;
