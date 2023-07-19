@@ -13,6 +13,7 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
 
 .theme-dark {
+	--app-bg: #221921
 	--main-color: #382d37
 	--main-alt: #221921
 	--status-picker-color: var(--main-color)
