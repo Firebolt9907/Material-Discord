@@ -13,9 +13,6 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
 
 :root {
-	--main-color: #382d37
-	--main-alt: #221921
-	
 	--accent-hue: 309;
 	--accent-saturation: 71%;
 	--accent-lightness: 61%;
@@ -35,4 +32,10 @@
 
 	--popout-radius: 8px;
 	--popout-radius-big: 18px;
+}
+
+.theme-dark {
+	--main-color: #382d37
+	--main-alt: #221921
+	
 }
